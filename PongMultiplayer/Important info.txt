@@ -1,0 +1,3 @@
+Start the server first before launching the client and remenber if you are running both the clients on the same machine the default IP and port will ve "127.0.0.1" and "1000".
+
+If clients are on different machines you will have to get the IP of the machine the server is running on and enter as the default IP.
